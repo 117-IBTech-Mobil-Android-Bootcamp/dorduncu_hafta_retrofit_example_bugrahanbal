@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">week4</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="free_registration">Ücretsiz Üye Ol</string>
+    <string name="havent_registered_yet">Üye değil misin?</string>
+    <string name="login_title">Giriş Yapın</string>
+    <string name="remember_me">Beni Hatırla</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
